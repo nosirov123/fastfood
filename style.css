@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.text{
+    color:black;
+    text-align: center;
+    background-color:black;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+
+.text:hover{
+    color:red;
+    background-color:white;
+}
+
+
+body{
+    background-color: black;
+}
